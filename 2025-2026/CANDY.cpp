@@ -8,7 +8,7 @@ int main() {
     cin.tie(nullptr);
 
     freopen("CANDY.INP", "r", stdin);
-    freopen("CANDY.INP", "w", stdout);
+    freopen("CANDY.OUT", "w", stdout);
 
     int n, f, g;
     cin >> n >> f >> g;
