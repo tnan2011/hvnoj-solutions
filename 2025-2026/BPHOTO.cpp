@@ -38,7 +38,7 @@ int main() {
     cin.tie(nullptr);
 
     freopen("BPHOTO.INP", "r", stdin);
-    freopen("BPHOTO.INP", "w", stdout);
+    freopen("BPHOTO.OUT", "w", stdout);
 
     int n;
     cin >> n;
