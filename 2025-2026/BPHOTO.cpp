@@ -37,8 +37,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    freopen("CANDY.INP", "r", stdin);
-    freopen("CANDY.INP", "w", stdout);
+    freopen("BPHOTO.INP", "r", stdin);
+    freopen("BPHOTO.INP", "w", stdout);
 
     int n;
     cin >> n;
